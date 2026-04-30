@@ -55,8 +55,12 @@ README.md
 ---
 
 ## 📌 Current Status
-Project Completed ✅  
-Code and IPR submission uploaded successfully.
+## Current Status
+- IPR Submission: Completed  
+- Research Paper submitted to an International Conference for review  
+- Source Code: Uploaded  
+- Report & PPT: Uploaded  
+- Project: Completed
 
 ---
 
