@@ -1,4 +1,4 @@
-# AI-For-Early-Detection-of-Heart-disease-2210992052_2210992278_2210992116_22109919993-
+# AI-For-Early-Detection-of-Heart-disease-2210992052_2210992278_2210992116_2210991993-
 
 
 ## 👥 Team Details
