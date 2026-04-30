@@ -3,8 +3,8 @@
 
 ## 👥 Team Details
 - Prachi  (2210992052)
-- Raghav  (2210992278)
-- Pratap Sehdev (2210992116)
+- Sehdev Pratap(2210992278)
+- Raghav(2210992116)
 - Nishtha (22109919993)
 
 
